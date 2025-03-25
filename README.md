@@ -15,10 +15,10 @@
 
 ## 🚀 Projects
 
-### 🎮 [Blackjack Game](https://jhuq477.github.io/)
+### 🎮 [Blackjack Game](https://jhuq477.github.io/) | [Github Link](https://github.com/jhuq477/jhuq477.github.io)
 Built from scratch using **JavaScript, HTML, and CSS**. This game sharpened my DOM manipulation and event handling skills. It's deployed on GitHub Pages — give it a try!
 
-### 💪 [Nutrition Tracking website](https://never-skip-dessert.vercel.app/)
+### 💪 [Nutrition Tracking website](https://never-skip-dessert.vercel.app/) | [Github Link](https://github.com/jhuq477/Never-Skip-Dessert)
 Built using **Next.js, React, Supabase, and deployed with Vercel**. I made this to help individuals stay on top of their nutrition goals. It uses email authentication via Magic Link - Check it out!
 
 ## 📈 Goals for 2025
