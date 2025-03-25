@@ -2,6 +2,9 @@
 
 🎓 I'm a Computer Science and Commerce student at UNSW (University of New South Wales), expecting to graduate in March 2026. I enjoy building meaningful digital products and tackling real-world problems through code.
 
+## 💻 Tech Stack
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
 ## 💼 About Me
 
 - 🔐 Currently developing skills in cybersecurity and full-stack development.
@@ -26,7 +29,6 @@ Built using **Next.js, React, Supabase, and deployed with Vercel**. I made this 
 
 ## 📫 Let's Connect!
 
-- 📧 johanhuq@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/JohanHuq/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/johanhuq) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/JohanHuq) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:johanhuq@gmail.com) 
 
 Thanks for stopping by!
